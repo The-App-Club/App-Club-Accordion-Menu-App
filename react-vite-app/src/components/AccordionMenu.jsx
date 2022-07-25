@@ -253,6 +253,7 @@ const AccordionMenu = () => {
                       /* background: #ccc; */
                       padding: 20px;
                       animation: fadein 0.35s ease-in;
+                      animation-name: none;
                       &:hover {
                         background: rgba(227, 227, 227, 0.5);
                         cursor: pointer;
